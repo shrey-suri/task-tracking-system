@@ -106,10 +106,6 @@ To create a new task, follow these steps:
 1. Run the application:
 - Dev: 
 ```bash
-npm run dev
-```
-   or
-```bash
 npm run server-dev
 ```
 - Production
